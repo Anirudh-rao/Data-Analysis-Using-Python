@@ -2,6 +2,10 @@ import urllib3
 import json
 import pandas as pd
 
+"""
+This is the basic Implementation of a webscrapper
+"""
+
 # Input Variables
 url = "https://www.goodreads.com/choiceawards/best-books-2025"
 
