@@ -1,2 +1,3 @@
-# Data-Ingestion-
-In this repository we will cover some topics related to data ingestion and data warehousing 
+# Data Analysis Problems
+
+This repository covers all the basics to advanced problems solving using pandas and numpy
