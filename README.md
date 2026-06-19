@@ -1,3 +1,3 @@
-# Data Analysis Problems
+# Data Analytics and Machine Learning
 
-This repository covers all the basics to advanced problems solving using pandas and numpy
+This Repository covers basics of Data Analysis and Machine Learning from the Kaggle Website.
